@@ -1,94 +1,184 @@
 {
   "passengers": [
     {
-      "id": "30a1af19-fde8-4501-8f4a-be5ca451f825",
+      "_id": "c6c73f12-bcf3-468d-8bc1-ec641e92fbeb",
       "name": "John Doe",
-      "trips": 164,
-      "airline": {
-        "name": "Qatar Airways",
-        "country": "Qatar"
-      }
+      "trips": 186,
+      "airline": [
+        {
+          "_id": "252d3bca-d9bb-476c-9a97-562d685e235c",
+          "name": "Eva Air",
+          "country": "Taiwan",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/EVA_Air_logo.svg/250px-EVA_Air_logo.svg.png",
+          "slogan": "Sharing the World, Flying Together",
+          "head_quaters": "376, Hsin-Nan Rd., Sec. 1, Luzhu, Taoyuan City, Taiwan",
+          "website": "www.evaair.com",
+          "established": "1989"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "16c856a9-cc7f-43cc-9937-8d9680bab92e",
+      "_id": "329116f0-395d-448b-ba10-8ac3b8871ccc",
       "name": "Jane Smith",
-      "trips": 252,
-      "airline": {
-        "name": "Eva Air",
-        "country": "Taiwan"
-      }
+      "trips": 102,
+      "airline": [
+        {
+          "_id": "a1b2c3d4-e5f6-7890-abcd-111122223333",
+          "name": "Qatar Airways",
+          "country": "Qatar",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/300px-Qatar_Airways_Logo.svg.png",
+          "slogan": "Going Places Together",
+          "head_quaters": "Qatar Airways Towers, Doha, Qatar",
+          "website": "www.qatarairways.com",
+          "established": "1994"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "e9780459-56eb-4b97-b4f2-60b47f161903",
+      "_id": "1f42e041-2156-418a-9037-0912fd467c27",
       "name": "Alice Johnson",
-      "trips": 114,
-      "airline": {
-        "name": "Thai Airways",
-        "country": "Thailand"
-      }
+      "trips": 212,
+      "airline": [
+        {
+          "_id": "c3f4e5d6-aabb-4455-8899-776655443322",
+          "name": "Thai Airways",
+          "country": "Thailand",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Thai_Airways_Logo.svg/240px-Thai_Airways_Logo.svg.png",
+          "slogan": "Smooth as Silk",
+          "head_quaters": "89 Vibhavadi Rangsit Rd, Bangkok, Thailand",
+          "website": "www.thaiairways.com",
+          "established": "1960"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "748dff04-2157-4a2e-b9a1-afe677a20df7",
+      "_id": "4396b602-8b76-4ee6-bde4-136d2b902894",
       "name": "Bob Lee",
-      "trips": 155,
-      "airline": {
-        "name": "Singapore Airlines",
-        "country": "Singapore"
-      }
+      "trips": 300,
+      "airline": [
+        {
+          "_id": "252d3bca-d9bb-476c-9a97-562d685e235c",
+          "name": "Eva Air",
+          "country": "Taiwan",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/EVA_Air_logo.svg/250px-EVA_Air_logo.svg.png",
+          "slogan": "Sharing the World, Flying Together",
+          "head_quaters": "376, Hsin-Nan Rd., Sec. 1, Luzhu, Taoyuan City, Taiwan",
+          "website": "www.evaair.com",
+          "established": "1989"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "1fc4dc69-2cbe-4777-be61-6cf0b76096cb",
+      "_id": "c752d5e6-3e55-4430-9974-0d6826bb7e82",
       "name": "Maria Garcia",
-      "trips": 267,
-      "airline": {
-        "name": "Emirates",
-        "country": "UAE"
-      }
+      "trips": 115,
+      "airline": [
+        {
+          "_id": "a1b2c3d4-e5f6-7890-abcd-111122223333",
+          "name": "Qatar Airways",
+          "country": "Qatar",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/300px-Qatar_Airways_Logo.svg.png",
+          "slogan": "Going Places Together",
+          "head_quaters": "Qatar Airways Towers, Doha, Qatar",
+          "website": "www.qatarairways.com",
+          "established": "1994"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "cc1f0271-c2cd-4169-b523-55e2bc0863f5",
+      "_id": "a39ea802-e49a-46df-8aa1-73c1827875c3",
       "name": "Michael Brown",
-      "trips": 174,
-      "airline": {
-        "name": "Qatar Airways",
-        "country": "Qatar"
-      }
+      "trips": 163,
+      "airline": [
+        {
+          "_id": "c3f4e5d6-aabb-4455-8899-776655443322",
+          "name": "Thai Airways",
+          "country": "Thailand",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Thai_Airways_Logo.svg/240px-Thai_Airways_Logo.svg.png",
+          "slogan": "Smooth as Silk",
+          "head_quaters": "89 Vibhavadi Rangsit Rd, Bangkok, Thailand",
+          "website": "www.thaiairways.com",
+          "established": "1960"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "273772a3-45d8-49a2-bec9-1ffba3d5bcae",
+      "_id": "12f9cb23-2ffa-4d2d-a06f-a657f43046a3",
       "name": "Emily Davis",
-      "trips": 297,
-      "airline": {
-        "name": "Eva Air",
-        "country": "Taiwan"
-      }
+      "trips": 106,
+      "airline": [
+        {
+          "_id": "252d3bca-d9bb-476c-9a97-562d685e235c",
+          "name": "Eva Air",
+          "country": "Taiwan",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/EVA_Air_logo.svg/250px-EVA_Air_logo.svg.png",
+          "slogan": "Sharing the World, Flying Together",
+          "head_quaters": "376, Hsin-Nan Rd., Sec. 1, Luzhu, Taoyuan City, Taiwan",
+          "website": "www.evaair.com",
+          "established": "1989"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "a477510c-d15f-4759-bb91-6f226066f236",
+      "_id": "01a80e37-b5c8-4722-864f-7738a5e092d9",
       "name": "Daniel Wilson",
-      "trips": 118,
-      "airline": {
-        "name": "Thai Airways",
-        "country": "Thailand"
-      }
+      "trips": 123,
+      "airline": [
+        {
+          "_id": "a1b2c3d4-e5f6-7890-abcd-111122223333",
+          "name": "Qatar Airways",
+          "country": "Qatar",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/300px-Qatar_Airways_Logo.svg.png",
+          "slogan": "Going Places Together",
+          "head_quaters": "Qatar Airways Towers, Doha, Qatar",
+          "website": "www.qatarairways.com",
+          "established": "1994"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "8fd5cf6c-690f-453b-881f-1377ec527403",
+      "_id": "c25442f0-b7b8-4f78-8c11-4359899cf5b0",
       "name": "Sophia Martinez",
-      "trips": 58,
-      "airline": {
-        "name": "Singapore Airlines",
-        "country": "Singapore"
-      }
+      "trips": 156,
+      "airline": [
+        {
+          "_id": "c3f4e5d6-aabb-4455-8899-776655443322",
+          "name": "Thai Airways",
+          "country": "Thailand",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Thai_Airways_Logo.svg/240px-Thai_Airways_Logo.svg.png",
+          "slogan": "Smooth as Silk",
+          "head_quaters": "89 Vibhavadi Rangsit Rd, Bangkok, Thailand",
+          "website": "www.thaiairways.com",
+          "established": "1960"
+        }
+      ],
+      "__v": 0
     },
     {
-      "id": "3772fe63-6728-4e73-aa3e-bcc1bb780ef9",
+      "_id": "c85f5366-8c93-4777-88f9-c7a3e812bcc3",
       "name": "James Anderson",
-      "trips": 267,
-      "airline": {
-        "name": "Emirates",
-        "country": "UAE"
-      }
+      "trips": 285,
+      "airline": [
+        {
+          "_id": "252d3bca-d9bb-476c-9a97-562d685e235c",
+          "name": "Eva Air",
+          "country": "Taiwan",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/EVA_Air_logo.svg/250px-EVA_Air_logo.svg.png",
+          "slogan": "Sharing the World, Flying Together",
+          "head_quaters": "376, Hsin-Nan Rd., Sec. 1, Luzhu, Taoyuan City, Taiwan",
+          "website": "www.evaair.com",
+          "established": "1989"
+        }
+      ],
+      "__v": 0
     }
   ]
 }
